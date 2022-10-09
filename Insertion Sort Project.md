@@ -30,4 +30,4 @@ Proje 1
 
 ---
 
-https://app.patika.dev/yigitmustu
+* Patika.dev link: https://app.patika.dev/yigitmustu
